@@ -4,11 +4,16 @@ SQL, Python
 These prjoects are examples of datasets that I've cleaned
 
 **1 - Layoffs Data (MySQL)**
+
 Cleaning a dataset about layoffs using MySQL
--- 1. Removing duplicates
--- 2. Standardising the format
--- 3. Dealing with null and blank values
--- 4. Removing any columns or rows 
+
+1. Removing duplicates
+
+2. Standardising the format
+
+3. Dealing with null and blank values
+
+4. Removing any columns or rows 
 
 [Raw Data](https://github.com/mattclark186/Data-Cleaning/blob/main/Layoffs%20Data%20RAW.csv)
 
