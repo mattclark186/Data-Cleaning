@@ -5,7 +5,7 @@ These prjoects are examples of datasets that I've cleaned
 
 ## 1 - Layoffs Data (MySQL)
 
-    Cleaning a dataset about layoffs using MySQL
+**Cleaning a dataset about layoffs using MySQL**
 
 1. Removing duplicates
 
@@ -26,7 +26,7 @@ These prjoects are examples of datasets that I've cleaned
 
 ## 2 - Job Listings Data (Python)
 
-Cleaning a dataset about job listings using Python (Jupyter notebook)
+**Cleaning a dataset about job listings using Python (Jupyter notebook)**
 
 - Duplicates are removed, keywords from the job title are extracted
 
