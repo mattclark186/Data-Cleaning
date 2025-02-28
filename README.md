@@ -22,6 +22,8 @@ Cleaning a dataset about layoffs using MySQL
 [Clean Data](https://github.com/mattclark186/Data-Cleaning/blob/main/Layoffs%20Data%20CLEAN.csv)
 
 
+
+
 **2 - Job Listings Data (Python)**
 
 Cleaning a dataset about job listings using Python (Jupyter notebook)
